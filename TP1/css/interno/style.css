@@ -1,0 +1,11 @@
+
+img{
+    float: center;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+table, th, td{
+    border-style: solid;
+}
