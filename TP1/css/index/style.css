@@ -1,6 +1,19 @@
+h1,h2 {
+    color: black;
+    background-color: white;
+    display: table;
+    padding:5px;
+}
+
 h3{
-    
+    color: black;
     font-weight: lighter;
+    background-color: white; 
+    display: table;
+    padding:5px;
+}
+a{
+    font-weight: bold;
 }
 
 img{

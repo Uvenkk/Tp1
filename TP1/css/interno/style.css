@@ -5,7 +5,23 @@ img{
     height: 200px;
     object-fit: cover;
 }
-
+a{
+    font-weight: bold;
+}
 table, th, td{
-    border-style: solid;
+    padding: 1px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.lista{
+
+    width: 100px;
+    height: 100px;
+}
+
+h1,h4{
+    color: black;
+    background-color: white;
+    display: table;
 }
