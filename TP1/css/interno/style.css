@@ -1,6 +1,5 @@
 
-img{
-    max-width: 100%;
+.tab{
     float: center;
     width:  200px;
     height: 200px;
@@ -10,16 +9,20 @@ a{
     font-size: 1.5vw;
     font-weight: bold;
 }
-table, th, td{
+.imtab{
+    width: 98%%;
+    
+}
+th, td{
     padding: 1px;
     text-align: center;
     border: 1px solid black;
 }
 
 .lista{
-    max-width: 100%;
-    width: 150px;
-    height: 150px;
+     float: center;
+    width:  20%;
+    height: 20%;
 }
 
 h1,h4{
@@ -27,4 +30,8 @@ h1,h4{
     color: black;
     background-color: white;
     display: table;
+}
+.container{
+    width: 98%;
+    overflow-x: auto;
 }

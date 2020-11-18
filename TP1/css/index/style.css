@@ -20,14 +20,10 @@ a{
 }
 
 img{
-    max-width: 100%;
+   
     float: center;
-    width:  400px;
-    height: 400px;
-    object-fit: cover;
-}
-
-table,th,td{
-    border-style: solid;
+    width:  20%;
+    height: 20%;
     
 }
+
